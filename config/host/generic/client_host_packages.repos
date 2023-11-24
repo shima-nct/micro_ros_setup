@@ -28,7 +28,7 @@ repositories:
     version: humble
   uros/micro-ROS-demos:
     type: git
-    https://github.com/shima-nct/micro-ROS-demos.git
+    url: https://github.com/shima-nct/micro-ROS-demos.git
     version: feature/llcc68_serial_transport
   uros/micro_ros_utilities:
     type: git
