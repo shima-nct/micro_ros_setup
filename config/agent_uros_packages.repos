@@ -5,5 +5,5 @@ repositories:
     version: humble
   uros/micro-ROS-Agent:
     type: git
-    url: https://github.com/micro-ROS/micro-ROS-Agent.git
-    version: humble
+    url: https://github.com/shima-nct/micro-ROS-Agent.git
+    version: feature/llcc68_serial_transport
